@@ -1,0 +1,15 @@
+{
+    "name": "galicher/events",
+    "authors": [
+        {
+            "name": "Damien",
+            "email": "damien.galicher@galicher.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Galicher\\Event\\": "src/"
+        }
+    },
+    "require": {}
+}
